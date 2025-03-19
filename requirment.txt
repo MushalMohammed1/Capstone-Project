@@ -1,6 +1,5 @@
-streamlit
-pandas
-altair
-folium
-streamlit-folium
-base64
+folium==0.14.0
+streamlit==1.30.0
+streamlit-folium==0.14.0
+pandas==2.1.4
+altair==5.1.2
