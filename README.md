@@ -23,6 +23,3 @@ Choosing the right nursery is a crucial decision that affects both your peace of
 ## Usage 🚀
 The Streamlit app URL is not yet available. Once deployed, users will be able to interact with the platform through a web-based interface.
 
----
-
-Feel free to update this README as your project evolves! 🚀
